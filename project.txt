@@ -1,4 +1,4 @@
 GitHub Pull Request Demo
-Version 1.0
+Version 2.0
 This change was added via a Pull Request.
-This change is to test update pull request in github.
+This change is to test updating Pull Request.
